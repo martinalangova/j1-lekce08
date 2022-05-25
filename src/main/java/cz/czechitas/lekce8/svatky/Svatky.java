@@ -59,7 +59,7 @@ public class Svatky {
    * @return Stream jmen.
    */
   public Stream<String> muzi() {
-    //TODO
+    //TODO implementovat pomosí lambda výrazu
     return null;
   }
 
@@ -69,7 +69,7 @@ public class Svatky {
    * @return Stream jmen.
    */
   public Stream<String> zeny() {
-    //TODO
+    //TODO implementovat pomocí method reference
     return null;
   }
 
